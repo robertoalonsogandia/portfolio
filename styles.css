@@ -60,7 +60,7 @@ ul {
   border-bottom: 2px solid #fff;
 }
 
-.nav-main ul.nav-menu {
+.-main ul.nav-menu {
   flex: 1;
   margin-left: 20px;
 }
@@ -140,10 +140,11 @@ hr {
 
 .news-cards a {
   padding: 10px 0;
-  color: #f2f2f2;
+  color: #f6fa03;
   text-transform: uppercase;
   display: inline-block;
-  font-weight: bold;
+  font-weight: normal;
+  border-bottom: 1px double rgb(250, 4, 4);
 }
 
 /* CARDS BANNER ONE */
